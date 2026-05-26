@@ -1,0 +1,4 @@
+ore_grade_pct,drilling_accuracy_pct,blast_quality_score,equipment_availability_pct,haulage_delay_min,plant_throughput_pct,weather_risk_score,waste_ratio_pct
+59.5,84,76,82,22,88,35,28
+63.2,90,85,91,8,96,20,18
+54.7,78,68,74,38,79,64,36
